@@ -6,6 +6,14 @@ body {
     padding: 0;
 }
 
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    width: 50%;
+}
+
 h1 {
     color: #FFFFFF;
 	font-size: 80px;
